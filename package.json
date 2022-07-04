@@ -1,0 +1,20 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "first project by Hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vkube/hexlet-js.git"
+  },
+  "author": "S.Drozdov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vkube/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Vkube/hexlet-js#readme"
+}
