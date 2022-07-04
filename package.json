@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Vkube/hexlet-js#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "lodash.last": "^3.0.0"
   }
 }
